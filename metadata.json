@@ -1,0 +1,6 @@
+{
+  "name": "CivicNest - Apartment Maintenance App",
+  "description": "Production-grade apartment maintenance mobile application featuring role-based dashboards, closed-loop phone auth, financial command center, actionable to-do lists, receipt uploads, unified WhatsApp-style chat, and monthly PDF/Excel reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
